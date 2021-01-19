@@ -1,0 +1,2 @@
+rootProject.name='FirebaseNotificatoin'
+include ':app'
